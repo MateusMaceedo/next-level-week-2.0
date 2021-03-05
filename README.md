@@ -18,6 +18,9 @@
 </p>
 
 ## :clipboard: Sobre o Projeto
+<p align="center">
+   <img src=".github/mobile.png" alt="Proffy" width="280"/>
+</p>
 
 Criação do Proffy, uma plataforma para conexão entre professores e alunos.
 
