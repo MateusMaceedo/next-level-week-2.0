@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img alt="mockup" src=".github/proffy.png" width="100%">
+  <img alt="mockup" src=".github/avatar.png" width="100%">
 </p>
 
 <p align="center">
@@ -132,4 +132,3 @@ $ npm run start
 # Instale o aplicativo Expo no seu celular
 # Escaneie o QrCode para abrir a aplicação
 ```
-
