@@ -19,7 +19,7 @@
 
 ## :clipboard: Sobre o Projeto
 <p align="center">
-   <img src=".github/mobile.png" alt="Proffy" width="650px" max-width="100%"/>
+   <img src=".github/mobileavatar.png" alt="Proffy" width="650px" max-width="100%"/>
 </p>
 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!
