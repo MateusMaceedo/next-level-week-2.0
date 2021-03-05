@@ -1,7 +1,6 @@
 <p align="center">
    <img src=".github/logo.png" alt="Proffy" width="280"/>
 </p>
-
 <div align="center">
    Projeto feito na Next Level Week 2 @Rocketseat
 </div>
